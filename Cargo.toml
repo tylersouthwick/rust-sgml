@@ -1,0 +1,4 @@
+[package]
+name = "sgml"
+version = "0.1.0"
+authors = ["Tyler Southwick <tyler@northfuse.net>"]
